@@ -21,7 +21,7 @@ nav {
   transition: 0.4s;
 }
 
-.brand:hover>h2 {
+.brand:hover > h2 {
   color: #dec129;
 }
 
